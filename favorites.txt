@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 My favorite foods:
 
 1 - Lasagne
 2 - Huevos Rancheros
 3 - Egg Salad
+=======
+My favorite movies:
+
+1 - Blackhat
+2 - Takedown
+3 - The Matrix
+>>>>>>> movies
